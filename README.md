@@ -1,4 +1,4 @@
 # Test_hub
-##An example of a repository
+## An example of a repository
 
-Created by DimStam
+## Created by DimStam
